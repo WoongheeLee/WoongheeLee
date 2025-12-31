@@ -9,7 +9,7 @@ For more information, please visit my website at: https://woongheelee.github.io
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/woongheelee"
-    width="700"
-    height="400"
+    width="350"
+    height="200"
   />
 </a>
