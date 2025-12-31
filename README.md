@@ -6,4 +6,6 @@ My expertise lies in **developing advanced machine learning systems** and **pion
 
 For more information, please visit my website at: https://woongheelee.github.io
 
-[![Top Langs](https://github-readme-stats-delta-one-55.vercel.app/api/top-langs/?username=WoongheeLee&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook,postscript,roff&count_private=true)](https://woongheelee.github.io/)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/woongheelee"/>
+</a>
