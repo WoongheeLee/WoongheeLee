@@ -10,6 +10,6 @@ For more information, please visit my website at: https://woongheelee.github.io
   <img
     src="https://render.gitanimals.org/farms/woongheelee"
     width="350"
-    height="200"
+    height="300"
   />
 </a>
