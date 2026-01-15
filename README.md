@@ -7,7 +7,7 @@ My expertise lies in **developing advanced machine learning systems** and **pion
 For more information, please visit my website at: https://woongheelee.github.io
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/woongheelee"
-  />
+<img
+  src="https://render.gitanimals.org/farms/WoongheeLee"
+/>
 </a>
