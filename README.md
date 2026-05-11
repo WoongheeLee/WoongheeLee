@@ -5,7 +5,7 @@ I am a Senior Researcher at the **Energy AI & Computational Science Laboratory**
 My expertise lies in **developing advanced machine learning systems** and **pioneering innovative applications in energy research**.
 
 * 🧑‍💻 **Academic Profile**: [woongheelee.github.io](https://woongheelee.github.io)
-* 🔬 **DAIS Research Group**: [dais-research.github.io/en](https://dais-research.github.io/en/)
+* 🔬 **DAIS Research Group**: 🇺🇸 [English](https://dais-research.github.io/en/) | 🇰🇷 [한국어](https://dais-research.github.io/)
 
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=WoongheeLee&utm_content=farm">
 <img
