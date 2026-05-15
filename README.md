@@ -1,6 +1,6 @@
 ## Hello, World! 😄
 
-I am a Senior Researcher at the **Energy AI & Computational Science Laboratory** at the **Korea Institute of Energy Research (KIER)**.
+I am a Senior Researcher at the [Energy AI & Computational Science Laboratory](https://kier-ai-cs.github.io/home/) at the Korea Institute of Energy Research (KIER).
 
 My expertise lies in **developing advanced machine learning systems** and **pioneering innovative applications in energy research**.
 
