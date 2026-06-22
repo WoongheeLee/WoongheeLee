@@ -2,7 +2,7 @@
 
 I am a Senior Researcher at the [Energy AI & Computational Science Laboratory](https://kier-ai-cs.github.io/home/) at the Korea Institute of Energy Research (KIER).
 
-My expertise lies in **developing advanced machine learning systems** and **pioneering innovative applications in energy research**.
+My work focuses on developing advanced machine learning systems for scientific discovery, engineering applications, and data-driven modeling.
 
 * 🧑‍💻 **Academic Profile**: [woongheelee.github.io](https://woongheelee.github.io)
 * 🔬 **DAIS Research Group**: 🇺🇸 [English](https://dais-research.github.io/en/) | 🇰🇷 [한국어](https://dais-research.github.io/)
